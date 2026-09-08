@@ -1,0 +1,6 @@
+/* We can leave App.css empty or use it for App-specific styles, 
+   but we're mostly using modular CSS or global styles for this small build. */
+.app-container {
+  position: relative;
+  min-height: 100vh;
+}
