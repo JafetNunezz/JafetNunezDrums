@@ -9,7 +9,7 @@ const Hero = () => {
       
       <div className="container hero-content">
         <div className="hero-text">
-          <span className="subtitle">Baterista Profesional & Educador</span>
+          <span className="subtitle">Baterista y Educador</span>
           <h1 className="title">
             <span className="text-white">JAFET</span><br/>
             <span className="text-accent">NUNEZ</span>
